@@ -1,0 +1,9 @@
+section{
+    width: 100%;
+    height: 100vh;
+    font-family: "Poppins";
+    display: grid;
+    place-items: center;
+    font-size: clamp(1rem, -0.875rem + 8.333vw, 3.5rem);
+    color: coral;
+}
